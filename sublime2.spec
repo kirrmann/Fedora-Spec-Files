@@ -1,4 +1,4 @@
-%define ver 2.0
+%define ver 2.0.1
 %define rel  1
 
 Name:          sublime-text
