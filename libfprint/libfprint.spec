@@ -1,6 +1,6 @@
 Name:           libfprint
 Version:        0.5.0
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Toolkit for fingerprint scanner
 
 Group:          System Environment/Libraries
